@@ -1,0 +1,105 @@
+
+#welcome h1{
+	color : #535353;
+	font-size: 24px;
+font-family: arial, hebrew;
+margin : 0px,0px,10px;}
+#welcome_slogan h1{
+	color : #535353;
+	font-size: 24px;
+font-family: arial, hebrew;
+margin : 0px,0px,10px;}
+
+
+#menubar ul {
+  list-style-type: none;
+  margin: 0px, 10px;
+  padding: 0px;
+  width = 100%;
+  overflow: hidden;
+  background-color: gray;
+}
+
+#menubar li {
+  float: left;
+}
+
+#menubar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+#menubar li a:hover {
+  color: black;
+}
+#menubar li a:active  {
+  background-color : white;
+}
+#content{
+	text-align: center;
+	vertical-align: center;}
+
+
+#content a{
+	border-style: transparent;
+	padding: 20px;
+	background-color: #d3d3d3;
+	border-left-style: solid;
+	border-left-width: 5px;
+	border-left-color: #808080;
+color : black;}
+ #content a:hover{
+ color : gray;}
+ 
+#footer a{
+	text-decoration : none;
+	text-align : center;
+}
+
+ 
+ #exp ul{
+	 list-style-type: none;
+	 
+display : block;
+
+ 
+ }
+ #exp li {
+  text-align: left;
+  
+  margin :10px, 20px;
+  padding : 25px;
+  background-color: white;
+}
+ #exp li a
+ {
+ color : black;
+ border-style: solid;
+	 border-width:2px;
+	 
+	 border-color: gray;
+	 padding : 20px;}
+ #exp a:hover{
+ color : white;
+ background-color: gray;}
+#aim{
+	
+	font-size : 20px;
+}
+#app table, th, td {
+  border: 1px solid black;
+}
+#app th, td {
+  padding: 15px;
+  text-align: center;
+}
+
+	
+	
+	
+	
+ 
